@@ -1,0 +1,13 @@
+{
+  "name": "myRecipes",
+<<<<<<< HEAD
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
+=======
+  "integrations": {},
+  "type": "ionic-angular"
+}
+>>>>>>> 3441dd7... Initial commit
